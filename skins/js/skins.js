@@ -15,6 +15,21 @@ var skins = [
         "rid": "8904"
 	}, 
        {
+        "id": "qsf1",
+        "name": "浅色风",
+        "author": "胖虎",
+        "size": "449KB",
+        "description": "暂定",
+        "update": "",
+        "star": "5",
+        "type": "",
+        "lables":  ["设计创意", "可爱风", "河图岁寒", "无边框", "亮色色", "透明"],
+        "time": "2018-6-27",
+        "imgs": ["http://pa77l2znq.bkt.clouddn.com/18-6-26/53687947.jpg", "http://pa77l2znq.bkt.clouddn.com/18-6-26/39955372.jpg"],
+        "it": "https://1005584676.github.io/skins/res/it/浅色风.th",
+        "rid": "8904"
+	}, 
+       {
         "id": "qsf",
         "name": "浅色风",
         "author": "胖虎",
