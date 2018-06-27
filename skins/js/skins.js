@@ -19,7 +19,7 @@ var skins = [
         "name": "浅色风",
         "author": "胖虎",
         "size": "449KB",
-        "description": "暂定",
+        "description": "该皮肤仅安卓能用，部分ios用户也可试试",
         "update": "",
         "star": "5",
         "type": "",
