@@ -1,9 +1,9 @@
 var skins = [
     {
         "id": "azmlf",
-        "name": "安卓墨绿风",
+        "name": "墨绿安卓风",
         "author": "暗组夏天",
-        "size": "449KB",
+        "size": "227KB",
         "description": "可能比较适合晚上适用~",
         "update": "",
         "star": "4",
@@ -33,7 +33,7 @@ var skins = [
         "id": "azjj",
         "name": "AZ极简",
         "author": "暗组夏天",
-        "size": "295KB",
+        "size": "163KB",
         "description": "简单就好~~",
         "update": "",
         "star": "3",
