@@ -1,7 +1,7 @@
 var skins = [
     {
         "id": "azmlf",
-        "name": "墨绿安卓风",
+        "name": "安卓墨绿风",
         "author": "暗组夏天",
         "size": "227KB",
         "description": "可能比较适合晚上适用~",
@@ -11,7 +11,7 @@ var skins = [
         "lables":  ["设计创意", "安卓", "河图岁寒", "无边框", "暗色", "夜间护眼"],
         "time": "2018-5-19",
         "imgs": ["http://pa77l2znq.bkt.clouddn.com/18-6-12/10916529.jpg", "http://pa77l2znq.bkt.clouddn.com/18-6-12/10916529.jpg", "http://pa77l2znq.bkt.clouddn.com/18-6-12/35840588.jpg"],
-        "it": "https://1005584676.github.io/skins/res/it/墨绿安卓风.th",
+        "it": "https://1005584676.github.io/skins/res/it/安卓墨绿风.th",
         "rid": "8904"
 	}, 
        {
