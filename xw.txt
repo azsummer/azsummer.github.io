@@ -1,4 +1,4 @@
-#突破迅雷版权方要求、敏感资源和网易云音乐海外限制#
+#绐佺牬杩呴浄鐗堟潈鏂硅姹傦紝鏁忔劅璧勬簮鍜岀綉鏄撲簯闊充箰娴峰闄愬埗#
 
 127.0.0.1 upgrade.xl9.xunlei.com
 127.0.0.1 hub5btmain.sandai.net
