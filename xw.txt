@@ -1,6 +1,0 @@
-#突破迅雷版权方要求，敏感资源和网易云音乐海外限制#
-
-127.0.0.1 upgrade.xl9.xunlei.com
-127.0.0.1 hub5btmain.sandai.net
-127.0.0.1 hub5emu.sandai.net
-79.137.38.20 music.163.com
