@@ -4,3 +4,6 @@
 127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 hub5emu.sandai.net
 79.137.38.20 music.163.com
+#屏蔽腾讯网址拦截提示 
+0.0.0.0 safebrowsing.qq.com
+0.0.0.0 jdwx01.b0.upaiyun.com
