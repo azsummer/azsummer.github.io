@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <title>WeGame离线安装包获取</title>
+    <style type="text/css">
+    html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0; 
+            padding: 0;
+            overflow:hidden;
+        }
+    #shang{
+            width: 300px;
+            height: 20%;
+            margin: 0 auto;
+            top: 10%;
+    }
+    #xia{
+            height: 80%;
+            margin: 0 auto;
+    }
+    </style>
+    <script type="text/javascript">
+    function ss() {
+        var steup=document.getElementById('wegame').value
+        if (steup!='输入版本号') {
+            steup="http://dldir1.qq.com/tgc/wegame/full/WeGameSetup"+steup+"_gw_0_0.exe";
+            //alert(steup)
+            location.href=steup;
+        }
+        
+    }
+    function qk() {
+        var we=document.getElementById('wegame').value
+        if (we=='输入版本号') {
+            document.getElementById("wegame").value=''
+            document.getElementById("wegame").style.color='black'
+            
+        }
+    }
+    function mr() {
+        var we=document.getElementById('wegame').value
+       if (we=='') {
+        document.getElementById("wegame").style.color='cadetblue'
+        document.getElementById("wegame").value='输入版本号'
+       } 
+    }
+    </script>
+    </head>
+    <body>
+        <div id="shang">
+            <p>WeGame离线安装包获取</p>
+    <input type="text" id="wegame" onfocus="qk()" onblur="mr()" value="输入版本号" style="color: cadetblue;"/>
+    <input type="button" value="点击下载" onclick="ss()"/>
+        <div>
+            <a href="https://www.wegame.com.cn/client/changelog" target="_blank">更新日志</a>
+            <a href="#" style="text-decoration:none;color:red">手动输入灰色部分的版本号</a>
+        </div>
+    </div>
+    <div id="xia">
+        <iframe 
+        src="https://www.wegame.com.cn/client/changelog" 
+        frameborder="0" 
+        width="100%" 
+        height="100%"  >
+        </iframe>
+    </div>
+    </body>
+</html>
