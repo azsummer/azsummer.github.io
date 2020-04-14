@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://anzusummer.github.io/</id>
+    <id>https://dtoo.ml</id>
     <title>暗组小站</title>
-    <updated>2020-04-02T10:55:16.148Z</updated>
+    <updated>2020-04-14T16:20:46.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://anzusummer.github.io/"/>
-    <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
+    <link rel="alternate" href="https://dtoo.ml"/>
+    <link rel="self" href="https://dtoo.ml/atom.xml"/>
     <subtitle>心中是语法，笔下格式化</subtitle>
-    <logo>http://anzusummer.github.io/images/avatar.png</logo>
-    <icon>http://anzusummer.github.io/favicon.ico</icon>
+    <logo>https://dtoo.ml/images/avatar.png</logo>
+    <icon>https://dtoo.ml/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
     <entry>
         <title type="html"><![CDATA[什么？不仅手机屏幕可以超频，显示器也能超？]]></title>
-        <id>http://anzusummer.github.io/post/OOqXguUyU/</id>
-        <link href="http://anzusummer.github.io/post/OOqXguUyU/">
+        <id>https://dtoo.ml/post/OOqXguUyU/</id>
+        <link href="https://dtoo.ml/post/OOqXguUyU/">
         </link>
         <updated>2020-04-01T05:39:36.000Z</updated>
         <content type="html"><![CDATA[<p>说到 <strong>超频</strong> 这个词，不少小伙伴可能都尝试过CPU超频，不过你可能不知道，显示器其实也是可以超频的。</p>
@@ -21,57 +21,57 @@
 <a href="https://www.testufo.com/" title="帧率测试">www.testufo.com</a><br>
 了解过显示器的小伙伴都知道，一般电脑显示器的刷新率都在60Hz，稍微好点的显示器可以达到90Hz，而电竞显示器可以达到144Hz，当然价格是非常贵的，能差2-3倍。<strong>频率越高，显示的效果越流畅，和手机的高帧率是一个效果。</strong> 我手机屏幕是超到了84hz</p>
 <p>接下来教大家进行显示器超频，风险非常小，首先打开软件。点击下拉框，选择当前使用的显示器。<br>
-<img src="http://anzusummer.github.io//post-images/1585720702534.png" alt="" loading="lazy"></p>
+<img src="https://dtoo.ml/post-images/1585720702534.png" alt="" loading="lazy"></p>
 <p>此时在 Detailed resolutions 一栏列出了当前显示器支持的刷新频率，一般来说，普通显示器的值在60Hz左右。参考上图所示，此时点击     <strong>Add</strong> ...     ，将红框中内容改成下图所示：为了保险起见，可先将刷新率修改为75。</p>
-<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585720894333.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://dtoo.ml/post-images/1585720894333.png" alt="" loading="lazy"></figure>
 <p>继续点击OK，此时面板中多出了刚添加的刷新率，点击OK，回到软件目录。运行restart.exe（64位系统运行 restart64.exe），此时显示器会黑屏并重新加载驱动。</p>
-<figure data-type="image" tabindex="2"><img src="http://anzusummer.github.io//post-images/1585721236026.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://dtoo.ml/post-images/1585721236026.png" alt="" loading="lazy"></figure>
 <p>在电脑桌面右键 <strong>显示设置</strong> ，选择 <strong>高级显示设置</strong></p>
-<figure data-type="image" tabindex="3"><img src="http://anzusummer.github.io//post-images/1585721427399.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://dtoo.ml/post-images/1585721427399.png" alt="" loading="lazy"></figure>
 <p>选<strong>属性</strong></p>
-<figure data-type="image" tabindex="4"><img src="http://anzusummer.github.io//post-images/1585721468532.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://dtoo.ml/post-images/1585721468532.png" alt="" loading="lazy"></figure>
 <p>看看是不是多了75赫兹，如果没有就重启电脑</p>
-<figure data-type="image" tabindex="5"><img src="http://anzusummer.github.io//post-images/1585721492907.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://dtoo.ml/post-images/1585721492907.png" alt="" loading="lazy"></figure>
 <p>到这里恭喜你，成功将显示器超频到了75hz，相比之前，流畅度提升25%，当然你也可以继续重复上述步骤，添加90hz，甚至更高的频率，建议每5hz递增添加，例如80，85，90，95。</p>
 <p>✨<strong>效果对比</strong>:</p>
-<figure data-type="image" tabindex="6"><img src="http://anzusummer.github.io//post-images/1585721838348.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="7"><img src="http://anzusummer.github.io//post-images/1585721843670.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://dtoo.ml/post-images/1585721838348.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://dtoo.ml/post-images/1585721843670.jpg" alt="" loading="lazy"></figure>
 <p>大家可以试试自己的显示器最大能到多少。</p>
 <center><a style="color:#0052FF"  href="https://www.lanzous.com/iavkyej">🌟【下载地址】🌟</a></center>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HTTP Debugger Pro汉化版]]></title>
-        <id>http://anzusummer.github.io/post/1ngSlXatx/</id>
-        <link href="http://anzusummer.github.io/post/1ngSlXatx/">
+        <id>https://dtoo.ml/post/1ngSlXatx/</id>
+        <link href="https://dtoo.ml/post/1ngSlXatx/">
         </link>
         <updated>2020-04-01T05:13:44.000Z</updated>
         <content type="html"><![CDATA[<p>上次给你们带来了FD,此软件的<strong>优点</strong>是可以捕获进程内的数据包，不同FD的<strong>代理抓包</strong>。</p>
 <p>HTTP Debugger Pro 主要是用来测试调试复杂的网站应用程序，通过这款软件可以帮助用户实时跟踪显示浏览器和网站服务器之间的所有通讯信息，既是一个专业的网络抓包工具，也是一款网站开发调试工具，网站开发人员可以通过它来分析程序和互联网之间的通信，可以查看和分析任何应用程序和 web 服务器之间通过 HTTP 和 HTTPS 协议的通信，开发人员根据这些信息可以对网站进行优化和调试，网站运行更加稳定。支持Internet Explorer, Mozilla Firefox, Opera和谷歌Chrome等浏览器，是一款非常专业的网站开发工具。</p>
-<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585632040276.png" alt="" loading="lazy"></figure>
-<p><img src="http://anzusummer.github.io//post-images/1585632043688.png" alt="" loading="lazy"><br>
+<figure data-type="image" tabindex="1"><img src="https://dtoo.ml/post-images/1585632040276.png" alt="" loading="lazy"></figure>
+<p><img src="https://dtoo.ml/post-images/1585632043688.png" alt="" loading="lazy"><br>
 ✨<strong>使用说明</strong>：<br>
 下载后先安装原版程序，然后复制汉化补丁到软件根目录，以后打开“HTTPDebuggerUI_zh.exe”就是汉化，打开原版就是英文，然后打开注册机，先点击Gen，然后点击Activate就激活了。</p>
 <center><a style="color:#0052FF"  href="https://www.lanzous.com/iatrsji">🌟【下载地址】🌟</a></center>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fiddler Web Debugger中文版]]></title>
-        <id>http://anzusummer.github.io/post/FD/</id>
-        <link href="http://anzusummer.github.io/post/FD/">
+        <id>https://dtoo.ml/post/FD/</id>
+        <link href="https://dtoo.ml/post/FD/">
         </link>
         <updated>2020-03-31T04:01:08.000Z</updated>
         <content type="html"><![CDATA[<p>Fiddler是一个C#实现的浏览器<strong>抓包和调试工具</strong>，fiddler启用后作为一个proxy存在于浏览器和服务器之间，从中监测浏览器与服务器之间的http/https级别的网络交互。目前可以支持各种主要浏览器如IE, Chrome, FireFox, Safari, Opera。Fiddler是最强大最好用的Web调试工具之一，已更新至5.0.20194.41348版。它能记录所有客户端和服务器的http和https请求，允许用户监视，设置断点，甚至修改输入输出数据。<br>
 是我经常使用的一款抓包软件<br>
-<img src="http://anzusummer.github.io//post-images/1585627328219.jpg" alt="" loading="lazy"></p>
-<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585627333118.jpg" alt="" loading="lazy"></figure>
+<img src="https://dtoo.ml/post-images/1585627328219.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://dtoo.ml/post-images/1585627333118.jpg" alt="" loading="lazy"></figure>
 <p>后期汉化更新可以去<br>
 GitHub：https://github.com/gabrielxvx/zh-fiddler</p>
 <center><a style="color:#0052FF"  href="https://www.lanzous.com/iatrzyf">🌟【下载地址】🌟</a></center>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Win10也有开机音乐？我也要悄悄打开替换它!]]></title>
-        <id>http://anzusummer.github.io/post/win10_Music/</id>
-        <link href="http://anzusummer.github.io/post/win10_Music/">
+        <id>https://dtoo.ml/post/win10_Music/</id>
+        <link href="https://dtoo.ml/post/win10_Music/">
         </link>
         <updated>2020-03-25T06:21:45.000Z</updated>
         <content type="html"><![CDATA[<p>不知道小伙伴听到过下面这段熟悉的声音吗？</p>
@@ -90,11 +90,11 @@ GitHub：https://github.com/gabrielxvx/zh-fiddler</p>
 <p>我已经准备了一些素材，包括游戏类，动漫类，恶搞类，品牌类，<strong>可以在文章末下载</strong></p>
 <p>既然无法直接替换，那就借用第三方软件，打开文件末尾提供的软件，点击打开搜索 <strong>sound</strong>，<br>
 选择第一个：</p>
-<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585121794430.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://dtoo.ml/post-images/1585121794430.png" alt="" loading="lazy"></figure>
 <p>勾选 Enable Startup Sound，下面三个箭头所表示的意思如图中所，这里点击第二个，<strong>选择要替换的音乐文件，必须为.wav音频文件。</strong></p>
-<figure data-type="image" tabindex="2"><img src="http://anzusummer.github.io//post-images/1585122708574.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://dtoo.ml/post-images/1585122708574.png" alt="" loading="lazy"></figure>
 <center>选择完成后提示要求重启，按照要求重启后听听是不是开机音乐已经变成你设置的音乐了。</center>
-<figure data-type="image" tabindex="3"><img src="http://anzusummer.github.io//post-images/1585126750005.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://dtoo.ml/post-images/1585126750005.png" alt="" loading="lazy"></figure>
 <p>到此，替换完成，如果想恢复原来的音乐，只需要点击 Restore 开头的即可。当然有自己喜欢的音乐可以将其转换为wav格式后替换！</p>
 <p><s>咳咳 我的:</s></p>
 <audio controls>
@@ -110,8 +110,8 @@ GitHub：https://github.com/gabrielxvx/zh-fiddler</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[实时在线本地视频翻译 看片神器]]></title>
-        <id>http://anzusummer.github.io/post/tongsheng/</id>
-        <link href="http://anzusummer.github.io/post/tongsheng/">
+        <id>https://dtoo.ml/post/tongsheng/</id>
+        <link href="https://dtoo.ml/post/tongsheng/">
         </link>
         <updated>2020-03-09T04:55:22.000Z</updated>
         <content type="html"><![CDATA[<p>总有一些外国动作影片，让不懂外语的你只能欣赏人物动作而不能领悟其剧情的精髓。我也为不能完全欣赏艺术而悲伤无奈，一直想要一个可以给本地视频实时翻译的软件，时至今日终于找到了！</p>
@@ -125,10 +125,10 @@ GitHub：https://github.com/gabrielxvx/zh-fiddler</p>
 </ul>
 <p>首先下载安装打开软件，电脑屏幕上就会出现一个半透明的悬浮窗<br>
 然后需要先在左上角注册登陆账号<br>
-<img src="http://anzusummer.github.io//post-images/1583735186167.png" alt="" loading="lazy"><br>
+<img src="https://dtoo.ml/post-images/1583735186167.png" alt="" loading="lazy"><br>
 右边选择可以选择声音来源，如果翻译电影选择系统就行<br>
 然后点击开始，就会自动录音然后开始翻译了<br>
-<img src="http://anzusummer.github.io//post-images/1583736754343.jpg" alt="" loading="lazy"><br>
+<img src="https://dtoo.ml/post-images/1583736754343.jpg" alt="" loading="lazy"><br>
 速度=网速+延迟(亿点点)🙌不过对于你们应该够用了<br>
 下面就是最令人激动的下载地址了:</p>
 <center><a style="color:#0052FF"  href="https://www.caiyunapp.com/interpretation/">【官网下载】</a></center>]]></content>
