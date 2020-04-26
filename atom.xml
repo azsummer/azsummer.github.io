@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dtoo.ml</id>
     <title>暗组小站</title>
-    <updated>2020-04-14T16:23:06.711Z</updated>
+    <updated>2020-04-26T14:09:00.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dtoo.ml"/>
     <link rel="self" href="https://dtoo.ml/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://dtoo.ml/images/avatar.png</logo>
     <icon>https://dtoo.ml/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
+    <entry>
+        <title type="html"><![CDATA[Mirillis Action! 4.6.0 便携版]]></title>
+        <id>https://dtoo.ml/post/mSURvpFXX/</id>
+        <link href="https://dtoo.ml/post/mSURvpFXX/">
+        </link>
+        <updated>2020-04-26T13:21:50.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>软件技术</strong><br>
+Mirillis Action!,暗神屏幕录制软件，屏幕录制软件和游戏录制软件，专业高清屏幕录像软件，被誉为游戏视频三大神器之一。拥有三大硬件加速技术，支持以超高的高清视频质量和实时录制桌面，视频超清画质，支持录制加密视频，4K/1080P视频HDR,录制60fps帧高清视频为MP4(H.264/AVC)格式，显示游戏帧率,添加实时评论,进行游戏视频解说。还可以录制和直播游戏，网页视频，录制音乐，屏幕截图等等.</p>
+<p><strong>软件截图</strong><br>
+<img src="https://dtoo.ml/post-images/1587908716296.png" alt="" loading="lazy"><br>
+<img src="https://dtoo.ml/post-images/1587908721724.png" alt="" loading="lazy"></p>
+<p><strong>版本特点</strong><br>
+by MedZ<br>
+无需授权码，采用劫持启动器运行，免激活完整版<br>
+便携化启动器自动屏蔽联网，默认启动为简体中文</p>
+<p><strong>下载地址</strong></p>
+<center><a style="color:#0052FF"  href="https://lanzous.com/ibysqze">🌟【蓝奏云】🌟</a></center>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么？不仅手机屏幕可以超频，显示器也能超？]]></title>
         <id>https://dtoo.ml/post/OOqXguUyU/</id>
