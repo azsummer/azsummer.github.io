@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dtoo.ml</id>
     <title>暗组小站</title>
-    <updated>2020-05-06T12:57:26.771Z</updated>
+    <updated>2020-05-10T05:12:23.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dtoo.ml"/>
     <link rel="self" href="https://dtoo.ml/atom.xml"/>
@@ -117,7 +117,7 @@ GitHub：https://github.com/gabrielxvx/zh-fiddler</p>
 <p>到此，替换完成，如果想恢复原来的音乐，只需要点击 Restore 开头的即可。当然有自己喜欢的音乐可以将其转换为wav格式后替换！</p>
 <p><s>咳咳 我的:</s></p>
 <audio controls>
-  <source src="https://iwx.mail.qq.com/ftn/download?func=4&key=6e3030375f40989b1c31c00c1335504b5d5506555453550515015302061856060d041d550200014959055402060706545a020003351462db928bcae5c1e5c5441510f7dc8b94a58d8fe488f7d392dedeeec7f8fc1b4203123845&code=800755bd&k=6e3030375f40989b1c31c00c1335504b5d5506555453550515015302061856060d041d550200014959055402060706545a020003351462db928bcae5c1e5c5441510f7dc8b94a58d8fe488f7d392dedeeec7f8fc1b4203123845" type="audio/wav">
+  <source src="https://iwx.mail.qq.com/ftn/download?func=4&key=2f3665655e4cc9cb4037955e1239011b570f0452055c04514902575d52140701530748070d0a0719060156575108505651545c00342f33f38f88c4a2dd8ee78ca4d0c2d98eefc4fcaf181204423946&code=d6ee4934&k=2f3665655e4cc9cb4037955e1239011b570f0452055c04514902575d52140701530748070d0a0719060156575108505651545c00342f33f38f88c4a2dd8ee78ca4d0c2d98eefc4fcaf181204423946" type="audio/wav">
 </audio>  
 <p><em>注意事项</em></p>
 <ul>
