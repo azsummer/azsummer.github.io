@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dtoo.ml</id>
     <title>暗组小站</title>
-    <updated>2020-06-05T11:31:42.118Z</updated>
+    <updated>2020-06-05T11:36:10.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dtoo.ml"/>
     <link rel="self" href="https://dtoo.ml/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://dtoo.ml/images/avatar.png</logo>
     <icon>https://dtoo.ml/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
+    <entry>
+        <title type="html"><![CDATA[电脑AdGuard 7.4.3247.0特别版]]></title>
+        <id>https://dtoo.ml/post/_dpz5IVdh/</id>
+        <link href="https://dtoo.ml/post/_dpz5IVdh/">
+        </link>
+        <updated>2020-06-05T08:35:52.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>软件介绍</strong>:<br>
+AdGuard是世界上最高级的广告拦截程序！堪称去广告大杀器。AdGuard全方位智能广告过滤软件，广告拦截器，广告过滤器，弹窗拦截器，间谍软件过滤器，社交媒体插件过滤器，能过滤各大平台视频广告，看视频不等待，广告规则自定义，跨浏览器扩展脚本、家长控制、隐形模式，保护浏览网页的隐私数据安全等。</p>
+<p><strong>软件截图</strong>:<br>
+<img src="https://dtoo.ml/post-images/1591353945140.png" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://dtoo.ml/post-images/1591353949934.png" alt="" loading="lazy"></figure>
+<p><strong>版本特点</strong></p>
+<ul>
+<li>加入原创编写的自动重置试用工具（AdGuard Trial Reset）</li>
+<li>无需授权码，自动激活免费180天试用，免费使用高级版功能</li>
+<li>到期自动运行续期计划，可在线更新版本、正常更新广告规则</li>
+</ul>
+<p><strong>使用说明</strong><br>
+安装好后运行“AdGuard Trial Reset”当停留在Waitng for adguard window… 时再启动 AdGuard.exe，再到 Waitng for adguard window… 时再启动 AdGuard.exe就有180天试用期了。</p>
+<p><strong>下载地址</strong></p>
+<center><a style="color:#0052FF"  href="https://azsummer.lanzous.com/ioPbydd9d4h">🌟【蓝奏云】🌟</a></center>
+<p>安卓版链接：<a style="color:#0052FF"  href="https://azsummer.lanzous.com/iBJ75dda2sb">【点这下载】</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mirillis Action! 4.6.0 便携版]]></title>
         <id>https://dtoo.ml/post/mSURvpFXX/</id>
