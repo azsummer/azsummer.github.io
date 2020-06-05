@@ -1,240 +1,218 @@
 <html>
-
-<head>
+  <head>
     <meta charset="utf-8" />
-<meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>
-    Fiddler Web Debugger中文版 | 暗组小站
-</title>
-<link rel="shortcut icon" href="https://dtoo.ml/favicon.ico?v=1591358157718">
-<!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> -->
-<link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<title>Fiddler Web Debugger中文版 | 暗组小站</title>
+<link rel="shortcut icon" href="https://dtoo.ml/favicon.ico?v=1591358363208">
+<link href="https://cdn.remixicon.com/releases/v2.1.0/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://dtoo.ml/styles/main.css">
-<!-- js -->
-<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://dtoo.ml/media/js/jquery.sticky-sidebar.min.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+<link rel="alternate" type="application/atom+xml" title="Fiddler Web Debugger中文版 | 暗组小站 - Atom Feed" href="https://dtoo.ml/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
-        
-            
-                <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-                <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-                
 
-                    
-                            
-</head>
-
-<body>
+    <meta name="description" content="Fiddler是一个C#实现的浏览器抓包和调试工具，fiddler启用后作为一个proxy存在于浏览器和服务器之间，从中监测浏览器与服务器之间的http/https级别的网络交互。目前可以支持各种主要浏览器如IE, Chrome, Fire..." />
+    <meta name="keywords" content="汉化,抓包,FD" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
     <div class="main">
-        <div class="header">
-    <div class="nav">
-        <div class="logo">
-            <a href="https://dtoo.ml">
-                <img class="avatar" src="https://dtoo.ml/images/avatar.png?v=1591358157718" alt="">
-            </a>
-            <div class="site-title">
-                <h1>
-                    暗组小站
-                </h1>
-            </div>
-        </div>
-        <span class="menu-btn fa fa-align-justify"></span>
-        <div class="menu-container">
-            <ul>
-                
-                    
-                            <li>
-                                <a href="/" class="menu">
-                                    首页
-                                </a>
-                            </li>
-                            
-                                
-                    
-                            <li>
-                                <a href="/archives" class="menu">
-                                    归档
-                                </a>
-                            </li>
-                            
-                                
-                    
-                            <li>
-                                <a href="/tags" class="menu">
-                                    标签
-                                </a>
-                            </li>
-                            
-                                
-                    
-                            <li>
-                                <a href="/post/about" class="menu">
-                                    关于
-                                </a>
-                            </li>
-                            
-                                
-            </ul>
-        </div>
-    </div>
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://dtoo.ml">
+  <img class="avatar" src="https://dtoo.ml/images/avatar.png?v=1591358363208" alt="">
+  </a>
+  <h1 class="site-title">
+    暗组小站
+  </h1>
+  <p class="site-description">
+    心中是语法，笔下格式化
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+        <a href="https://github.com/azsummer" target="_blank">
+          <i class="ri-github-line"></i>
+        </a>
+      
+    
+      
+    
+      
+        <a href="https://weibo.com/u/3665753012" target="_blank">
+          <i class="ri-weibo-line"></i>
+        </a>
+      
+    
+      
+    
+      
+    
+  </div>
 </div>
 
-<script>
-    $(document).ready(function() {
-        $(".menu-btn").click(function() {
-            $(".menu-container").slideToggle();
-        });
-        $(window).resize(function() {
-
-            if (window.matchMedia('(min-width: 960px)').matches) {
-                $(".menu-container").css('display', 'block')
-            } else {
-                $(".menu-container").css('display', 'none')
-            }
-
-        });
-    });
-</script>
-
-            <div id="main-content" class="post-detail main-container">
-                <!-- left -->
-                <div id="content" class="main-container-left">
-                    <article class="post i-card">
-                        <h2 class="post-title">
-                            Fiddler Web Debugger中文版
-                        </h2>
-                        <div class="post-info">
-                            <time class="post-time">2020-03-31</time>
-                            
-                                <a href="https://dtoo.ml/tag/coVT4wq-L/" class="post-tag i-tag
-                            i-tag-other_1">
-                            #汉化
-                        </a>
-                                
-                                <a href="https://dtoo.ml/tag/artvFs8Np/" class="post-tag i-tag
-                            i-tag-error">
-                            #抓包
-                        </a>
-                                
-                                <a href="https://dtoo.ml/tag/CrgtLeSin0/" class="post-tag i-tag
-                            i-tag-banana">
-                            #FD
-                        </a>
-                                
-                        </div>
-                        
-                            <div class="post-feature-image" style="background-image: url('https://dtoo.ml/post-images/FD.png')"></div>
-                            
-                                <div class="post-content">
-                                    <p>Fiddler是一个C#实现的浏览器<strong>抓包和调试工具</strong>，fiddler启用后作为一个proxy存在于浏览器和服务器之间，从中监测浏览器与服务器之间的http/https级别的网络交互。目前可以支持各种主要浏览器如IE, Chrome, FireFox, Safari, Opera。Fiddler是最强大最好用的Web调试工具之一，已更新至5.0.20194.41348版。它能记录所有客户端和服务器的http和https请求，允许用户监视，设置断点，甚至修改输入输出数据。<br>
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              Fiddler Web Debugger中文版
+            </h2>
+            <div class="post-info">
+              <span>
+                2020-03-31
+              </span>
+              <span>
+                1 min read
+              </span>
+              
+                <a href="https://dtoo.ml/tag/coVT4wq-L/" class="post-tag">
+                  # 汉化
+                </a>
+              
+                <a href="https://dtoo.ml/tag/artvFs8Np/" class="post-tag">
+                  # 抓包
+                </a>
+              
+                <a href="https://dtoo.ml/tag/CrgtLeSin0/" class="post-tag">
+                  # FD
+                </a>
+              
+            </div>
+            
+              <img class="post-feature-image" src="https://dtoo.ml/post-images/FD.png" alt="">
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>Fiddler是一个C#实现的浏览器<strong>抓包和调试工具</strong>，fiddler启用后作为一个proxy存在于浏览器和服务器之间，从中监测浏览器与服务器之间的http/https级别的网络交互。目前可以支持各种主要浏览器如IE, Chrome, FireFox, Safari, Opera。Fiddler是最强大最好用的Web调试工具之一，已更新至5.0.20194.41348版。它能记录所有客户端和服务器的http和https请求，允许用户监视，设置断点，甚至修改输入输出数据。<br>
 是我经常使用的一款抓包软件<br>
 <img src="https://dtoo.ml/post-images/1585627328219.jpg" alt="" loading="lazy"></p>
 <figure data-type="image" tabindex="1"><img src="https://dtoo.ml/post-images/1585627333118.jpg" alt="" loading="lazy"></figure>
 <p>后期汉化更新可以去<br>
 GitHub：https://github.com/gabrielxvx/zh-fiddler</p>
 <center><a style="color:#0052FF"  href="https://www.lanzous.com/iatrzyf">🌟【下载地址】🌟</a></center>
-                                </div>
-                    </article>
-                    <!--  -->
-                    
-                        <div class="next-post">
-                            <div class="next">下一篇</div>
-                            <a href="https://dtoo.ml/post/win10_Music/">
-                                <h3 class="post-title">
-                                    Win10也有开机音乐？我也要悄悄打开替换它!
-                                </h3>
-                            </a>
-                        </div>
-                        
-                            <div id="disqus_thread"></div>
-                            <div id="gitalk-container"></div>
-                </div>
-                <!-- middle -->
-                <div class="main-container-middle"></div>
-                <!-- right -->
-                <div id="sidebar" class="main-container-right">
-                    
-                                <!-- id-card -->
-                                
-    <div class="id_card i-card">
-        <div class="id_card-avatar" style="background-image: url(https://dtoo.ml/images/avatar.png?v=1591358157718)">
-        </div>
-        <h1 class="id_card-title">
-            暗组小站
-        </h1>
-        <h2 class="id_card-description">
-            心中是语法，笔下格式化
-        </h2>
-        <!--  -->
-        <div class="id_card-sns">
-            <!-- github -->
-            
-                <a href="https://github.com/azsummer" target="_blank" rel="noopener noreferrer"><i
-                class="fa fa-github"></i></a>
+              </div>
+              <div class="toc-container">
                 
-                    <!-- twitter -->
-                    
-                            <!-- weibo -->
-                            
-                                    <!-- facebook -->
-                                    
-
-        </div>
-    </div>
-    
-                                    
-
-                </div>
-
-
-
-
+              </div>
             </div>
+          </article>
+        </div>
 
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://dtoo.ml/post/win10_Music/">
+              <h3 class="post-title">
+                Win10也有开机音乐？我也要悄悄打开替换它!
+              </h3>
+            </a>
+          </div>
+        
 
-            <div class="site-footer">
-  Copyright © 2020 <a href="https://www.summergod.cn" target="_blank">暗组夏天</a> | 
-  <a class="rss" href="https://dtoo.ml/atom.xml" target="_blank">RSS</a>
-</div>
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
 
 <script>
-  hljs.initHighlightingOnLoad()
+
+  var gitalk = new Gitalk({
+    clientID: 'b6579d4e852fc44d6dac',
+    clientSecret: 'a71efa5c42783c4004c5a1e3e8ecbbee2bb469c8',
+    repo: 'anzusummer.github.io',
+    owner: 'anzusummer',
+    admin: ['anzusummer'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
 </script>
 
+          
 
-    </div>
-    <script>
-        $('#sidebar').stickySidebar({
-            topSpacing: 80,
-            // bottomSpacing: 60
-        });
-    </script>
-    
+          
         
-            <script>
-    window.onload = function() {
-        var gitalk = new Gitalk({
-            clientID: 'b6579d4e852fc44d6dac',
-            clientSecret: 'a71efa5c42783c4004c5a1e3e8ecbbee2bb469c8',
-            repo: 'anzusummer.github.io',
-            owner: 'anzusummer',
-            admin: ['anzusummer'],
-            id: (location.pathname).substring(0, 49), // Ensure uniqueness and length less than 50
-            distractionFreeMode: false // Facebook-like distraction free mode
-        })
 
-        gitalk.render('gitalk-container')
-    }
-</script>
-                
+        <div class="site-footer">
+  Copyright © 2020 <a href="https://www.summergod.cn" target="_blank">暗组夏天</a>
+  <a class="rss" href="https://dtoo.ml/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
 
-                    
-                                
-</body>
+      </div>
+    </div>
 
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
 </html>
