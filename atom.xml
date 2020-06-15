@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dtoo.ml</id>
     <title>暗组小站</title>
-    <updated>2020-06-10T14:34:55.509Z</updated>
+    <updated>2020-06-15T07:08:34.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dtoo.ml"/>
     <link rel="self" href="https://dtoo.ml/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://dtoo.ml/images/avatar.png</logo>
     <icon>https://dtoo.ml/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
+    <entry>
+        <title type="html"><![CDATA[图片无损放大Topaz Gigapixel AI]]></title>
+        <id>https://dtoo.ml/post/fjnqmnQ1E/</id>
+        <link href="https://dtoo.ml/post/fjnqmnQ1E/">
+        </link>
+        <updated>2020-06-15T06:50:33.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>软件介绍</strong>:<br>
+Topaz Gigapixel AI是一款运用了AI人工智能技术的图片“无损”放大软件。在功能上同PhotoZoom软件一样，都是可以将图片放大的同时保持足够的清晰度，但Topaz Gigapixel AI的不同之处在于它运用了AI人工智能放大技术，可以在放大图片的同时运用AI人工智能计算图片的缺失部分，自动弥补图像损失的细节，让画质效果更佳！。<br>
+<strong>软件截图</strong>:<br>
+<img src="https://dtoo.ml/post-images/1592204108457.png" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://dtoo.ml/post-images/1592204112396.png" alt="" loading="lazy"></figure>
+<p><img src="https://dtoo.ml/post-images/1592204115530.png" alt="" loading="lazy"><br>
+<strong>食用方法</strong>:</p>
+<ul>
+<li>下载后先打开TopazGigapixelAI-4.9.3.2-windows-x64-Full-Installer安装，安装好别运行。</li>
+<li>然后打开Topaz A.I. Gigapixel.reg写入注册表。</li>
+<li>最后打开Topaz Labs 汉化补丁(三合一)选择第三项汉化即可奔放。</li>
+</ul>
+<p><strong>下载地址</strong>:</p>
+<center><a style="color:#0052FF"  href="https://cloud.189.cn/t/A7VfeyiiQ7nu">🌟【天翼云】🌟</a></center>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迅雷极简融合版 ]]></title>
         <id>https://dtoo.ml/post/k9Q9rZ37w/</id>
