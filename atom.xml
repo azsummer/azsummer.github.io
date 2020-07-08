@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dtoo.ml</id>
     <title>暗组小站</title>
-    <updated>2020-06-29T06:55:30.638Z</updated>
+    <updated>2020-07-08T03:55:30.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dtoo.ml"/>
     <link rel="self" href="https://dtoo.ml/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://dtoo.ml/images/avatar.png</logo>
     <icon>https://dtoo.ml/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
+    <entry>
+        <title type="html"><![CDATA[Passper for RAR/ZIP v3.6.0.1]]></title>
+        <id>https://dtoo.ml/post/yJMN7YLff/</id>
+        <link href="https://dtoo.ml/post/yJMN7YLff/">
+        </link>
+        <updated>2020-07-08T03:48:13.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>软件介绍</strong><br>
+Passper for RAR/ZIP是一款简单好用的快速rar/zip密码恢复工具，如果您忘记了您的压缩文件解压密码或者是下载了根本不知道密码，没关系，本工具帮助你轻松搞定问题，您只需要添加您的文件，选择一个合适的恢复方法，恢复方法是根据实际情况来选择的，如组合破解是只组合你选择的字符来查找密码。字典破解是能够从内置或自制字典中查找密码，耗时较短。</p>
+<p><strong>软件截图</strong><br>
+<img src="https://dtoo.ml/post-images/1594180150755.png" alt="" loading="lazy"></p>
+<p><img src="https://dtoo.ml/post-images/1594180157984.png" alt="" loading="lazy"><br>
+<strong>版本特点</strong><br>
+by applek</p>
+<ul>
+<li>绿色和谐制作</li>
+<li>去除更新反馈</li>
+</ul>
+<p><strong>下载地址</strong></p>
+<center><a style="color:#0052FF"  href="https://azsummer.lanzous.com/b07rqov4f">🌟【蓝奏云】🌟</a></center>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[火绒弹窗拦截独立版v5.0.44.8]]></title>
         <id>https://dtoo.ml/post/KYE-rKpda/</id>
@@ -253,45 +273,5 @@ by MedZ<br>
 <p>后期汉化更新可以去<br>
 GitHub：https://github.com/gabrielxvx/zh-fiddler</p>
 <center><a style="color:#0052FF"  href="https://www.lanzous.com/iatrzyf">🌟【下载地址】🌟</a></center>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Win10也有开机音乐？我也要悄悄打开替换它!]]></title>
-        <id>https://dtoo.ml/post/win10_Music/</id>
-        <link href="https://dtoo.ml/post/win10_Music/">
-        </link>
-        <updated>2020-03-25T06:21:45.000Z</updated>
-        <content type="html"><![CDATA[<p>不知道小伙伴听到过下面这段熟悉的声音吗？</p>
-<audio controls>
-  <source src="https://iwx.mail.qq.com/ftn/download?func=4&key=7a363563b61697c81d37c55844395018000650025208520614030054561456015c0f1802015d521a58000602035b57040d060605623762fdd5f991d6a6f09be5cd184202143917&code=965cb9b7&k=7a363563b61697c81d37c55844395018000650025208520614030054561456015c0f1802015d521a58000602035b57040d060605623762fdd5f991d6a6f09be5cd184202143917" type="audio/wav">
-</audio>
-<p>没错，它就是从Windows7开始电脑自带的开机音乐，不过从Windows10开始，它默认是关闭的，而且无法在设置中替换！</p>
-<p>这次我们不仅要<strong>开启而且要替换Windows的开机音乐</strong>，适用于WinXP，Win7，Win10。</p>
-<p><strong>例如替换成下面的音乐：</strong></p>
-<p>替换成王者荣耀开机出场音效或者某个英雄的音效：</p>
-<audio controls>
-  <source src="https://iwx.mail.qq.com/ftn/download?func=4&key=6d34396281a4dacb1d35c9591364071b0a025b550c000c57140c0e070d49015201521400565d02190a505d035154010101070903357b358b938fc3b0c1b49214141482d4e6c9f5808c89f497e0bbfdedeb9f171554123541&code=949b5d54&k=6d34396281a4dacb1d35c9591364071b0a025b550c000c57140c0e070d49015201521400565d02190a505d035154010101070903357b358b938fc3b0c1b49214141482d4e6c9f5808c89f497e0bbfdedeb9f171554123541" type="audio/wav">
-</audio>
-<p><strong>下面就教大家怎么替换默认的开机音乐。</strong></p>
-<h3 id="教程开始"><strong>教程开始</strong></h3>
-<p>我已经准备了一些素材，包括游戏类，动漫类，恶搞类，品牌类，<strong>可以在文章末下载</strong></p>
-<p>既然无法直接替换，那就借用第三方软件，打开文件末尾提供的软件，点击打开搜索 <strong>sound</strong>，<br>
-选择第一个：</p>
-<figure data-type="image" tabindex="1"><img src="https://dtoo.ml/post-images/1585121794430.png" alt="" loading="lazy"></figure>
-<p>勾选 Enable Startup Sound，下面三个箭头所表示的意思如图中所，这里点击第二个，<strong>选择要替换的音乐文件，必须为.wav音频文件。</strong></p>
-<figure data-type="image" tabindex="2"><img src="https://dtoo.ml/post-images/1585122708574.png" alt="" loading="lazy"></figure>
-<center>选择完成后提示要求重启，按照要求重启后听听是不是开机音乐已经变成你设置的音乐了。</center>
-<figure data-type="image" tabindex="3"><img src="https://dtoo.ml/post-images/1585126750005.png" alt="" loading="lazy"></figure>
-<p>到此，替换完成，如果想恢复原来的音乐，只需要点击 Restore 开头的即可。当然有自己喜欢的音乐可以将其转换为wav格式后替换！</p>
-<p><s>咳咳 我的:</s></p>
-<audio controls>
-  <source src="https://iwx.mail.qq.com/ftn/download?func=4&key=2f3665655e4cc9cb4037955e1239011b570f0452055c04514902575d52140701530748070d0a0719060156575108505651545c00342f33f38f88c4a2dd8ee78ca4d0c2d98eefc4fcaf181204423946&code=d6ee4934&k=2f3665655e4cc9cb4037955e1239011b570f0452055c04514902575d52140701530748070d0a0719060156575108505651545c00342f33f38f88c4a2dd8ee78ca4d0c2d98eefc4fcaf181204423946" type="audio/wav">
-</audio>  
-<p><em>注意事项</em></p>
-<ul>
-<li>开机音乐时常最好少于10秒。</li>
-<li>其他音频格式需要转换为wav，可使用格式工厂等软件进行转换。</li>
-<li>本软件支持WinXP - Win10最新版系统。</li>
-</ul>
-<center><a style="color:#0052FF"  href="https://www.lanzous.com/iampmed">🌟【下载地址】🌟</a></center>]]></content>
     </entry>
 </feed>
